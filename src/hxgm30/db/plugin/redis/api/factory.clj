@@ -1,6 +1,6 @@
-(ns hxgm30.graphdb.plugin.redisgraph.api.factory
+(ns hxgm30.db.plugin.redisgraph.api.factory
   (:require
-    [hxgm30.graphdb.plugin.redisgraph.api.db :as redis])
+    [hxgm30.db.plugin.redisgraph.api.db :as redis])
   (:import
     (clojure.lang Keyword)))
 

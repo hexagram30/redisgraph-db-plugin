@@ -1,4 +1,4 @@
-(ns hxgm30.graphdb.plugin.redisgraph.api.db
+(ns hxgm30.db.plugin.redisgraph.api.db
   "Items of interest for implementors:
 
   * http://redisgraph.io/commands/

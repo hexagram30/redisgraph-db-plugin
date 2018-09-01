@@ -1,4 +1,4 @@
-(ns hxgm30.graphdb.plugin.redisgraph.api.queries)
+(ns hxgm30.db.plugin.redisgraph.api.queries)
 
 (def create-simple-node
   "CREATE (n)")
